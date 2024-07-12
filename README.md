@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anoop Mishra from LUCKNOW, India.!🙋‍♀️</h1>
-<h3 align="center">A passionate in 👨‍💻 Data Analyst & Machine Learning Enthusiast | 📊 Data Visualization | 🧠 Deep Learning | 🖥️ Computer Vision | 🌐 GIS Specialist 🌐 Data Analyst | 📊 Data Visualization | 📈 Predictive Analytics | 🧩 Problem Solver</h3>
+<h3 align="center">A passionate in 👨‍💻 Data Analyst & Machine Learning Enthusiast | 📊 Data Visualization | 🧠 Deep Learning | 🖥️ Computer Vision |🌐 GIS Specialist 🌐 Data Analyst | 📊 Data Visualization | 📈 Predictive Analytics | 🧩 Problem Solver</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishraanoop1028&label=Profile%20views&color=0e75b6&style=flat" alt="mishraanoop1028" /> </p>
